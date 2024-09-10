@@ -13,4 +13,6 @@ The Center hopes this repository advances knowledge sharing, fuels thoughtful di
 
 **While this repository is updated regularly, it may not be comprehensive. None of the information provided is legal advice. The Center is only providing information and does not take advocacy positions to support any piece of legislation or proposed legislation.**
 
+[**Access the Database HERE**](https://docs.google.com/spreadsheets/d/1l9rJ28kWaTpW01QSeh4sZynaGsX2N6ou/edit?usp=sharing&ouid=102216492100435089739&rtpof=true&sd=true)
+
 
